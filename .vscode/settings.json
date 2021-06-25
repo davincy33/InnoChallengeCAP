@@ -4,5 +4,6 @@
     "**/.git": true,
     "**/.vscode": true
 },
-"actions": []
+"actions": [],
+"SAP HANA Database Artifacts.lastSelectedTargetPath": "/home/user/projects/my-hana-app-01/db/src"
 }
